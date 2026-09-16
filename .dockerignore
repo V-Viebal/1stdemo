@@ -1,0 +1,7 @@
+.git
+.angular
+wrapper/.angular
+wrapper/dist
+wrapper/node_modules
+.tools
+**/.DS_Store
